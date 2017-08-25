@@ -10,10 +10,10 @@
 var CMS = {
 
   settings: {
-    siteName: 'CMS.js',
+    siteName: 'にゅーとりあのやべーブログ',
     siteTagline: 'Your site tagline',
     siteEmail: 'your_email@example.com',
-    siteAuthor: 'Your Name',
+    siteAuthor: 'にゅーとりあ',
     siteUrl: '',
     siteNavItems: [
       { name: 'Github', href: '#', newWindow: false },
@@ -42,11 +42,11 @@ var CMS = {
     },
     mode: 'Github',
     githubUserSettings: {
-      username: 'yourusername',
-      repo: 'yourrepo',
+      username: 'M-coypus',
+      repo: 'M-coypus.github.io',
     },
     githubSettings: {
-      branch: 'gh-pages',
+      branch: 'master',
       host: 'https://api.github.com'
     }
   },
