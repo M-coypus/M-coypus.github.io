@@ -10,9 +10,9 @@
 var CMS = {
 
   settings: {
-    siteName: 'にゅーとりあのやべーブログ',
-    siteTagline: 'Your site tagline',
-    siteEmail: 'your_email@example.com',
+    siteName: 'にゅーとりあ’s blog',
+    siteTagline: '',
+    siteEmail: '',
     siteAuthor: 'にゅーとりあ',
     siteUrl: '',
     siteNavItems: [
