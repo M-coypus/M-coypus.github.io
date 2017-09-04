@@ -3,13 +3,13 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'にゅーとりあのやべーブログ',
+    siteName: 'にゅーとりあ’s blog',
 
     // Tagline for your site
-    siteTagline: 'Your site tagline',
+    siteTagline: '',
 
     // Email address
-    siteEmail: 'your_email@example.com',
+    siteEmail: '',
 
     // Name
     siteAuthor: 'にゅーとりあ',
